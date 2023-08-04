@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" ><br><br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="310" height="320"/></p>
+<p><img align="right" src="https://github.com/sohammohite/sohammohite/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="310" height="320"/></p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
