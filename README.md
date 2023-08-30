@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Soham Mohite <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=30&center=true&vCenter=true&width=600&height=100&lines=DevOps+Engineer;AWS+|+Docker+|+Linux+|+IaC+|+Python"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=30&center=true&vCenter=true&width=600&height=100&lines=DevOps+Engineer+@Coditas;AWS+|+Docker+|+K8s;Linux+|+IaC+|+Python"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" ><br><br>
